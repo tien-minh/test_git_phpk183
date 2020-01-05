@@ -1,0 +1,62 @@
+/* # chọn id */
+
+
+/* . chọn class */
+#li1
+{
+    color: green;
+font-size: 30px
+}
+
+.mau_do
+{
+    color: red;
+
+}
+.size-40
+{
+
+    font-size: 40px
+}
+.box1{
+    /* chiều cao của thẻ */
+    height: 550px;
+/* chiều ngang của thẻ */
+    width: 500px;
+
+/* tô màu nền */
+    background-color: blue;
+
+    background-image: url(https://giaitri.vn/wp-content/uploads/2019/07/avatar-la-gi-01.jpg);
+
+    background-repeat: no-repeat;
+
+   
+}
+
+.box2
+{
+    height: 100px;
+
+    width: 100px;
+background-color: yellow;
+/* top: cạnh trên
+right: cạnh pải
+bottom: cạnh dưới
+left: cạnh trái */
+padding-top: 10px;
+padding-left: 10px ;
+/* border-vị trí: độ dài, khung viền */
+border-top: 10px solid red;  
+
+margin-bottom: 30px;
+
+
+}
+.box3
+{
+    height: 100px;
+    width: 500px;
+    background-color: black;
+    color: white;
+}

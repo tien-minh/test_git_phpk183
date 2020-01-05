@@ -1,0 +1,11 @@
+/* định nghĩa lại css khi màn hình <500px */
+@media only screen and (max-width:500px) and (min-width:200px)
+{
+.box1{
+
+    background-color: brown;
+
+    width: 500px;
+}
+
+}

@@ -1,0 +1,46 @@
+.white{
+
+    background: white;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    color: #000;
+}
+#session-2,#footer{
+    background: black;
+}
+.box{
+    background: white;
+    padding: 16px;
+}
+.gach-chan{
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+}
+h2{
+    margin-bottom: 25px;
+}
+.p-50{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+li{
+    list-style: none;
+
+}
+li a{
+
+    color:#333;
+}
+#footer p{
+
+    padding-top: 50px;
+    border-top: 1px solid #333;
+    margin-top: 20px;
+}
